@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/makharij/static/css/main.a451c81b.css",
-    "main.js": "/makharij/static/js/main.ac127341.js",
+    "main.js": "/makharij/static/js/main.96311dd9.js",
     "static/js/787.3ce0968d.chunk.js": "/makharij/static/js/787.3ce0968d.chunk.js",
     "index.html": "/makharij/index.html",
     "main.a451c81b.css.map": "/makharij/static/css/main.a451c81b.css.map",
-    "main.ac127341.js.map": "/makharij/static/js/main.ac127341.js.map",
+    "main.96311dd9.js.map": "/makharij/static/js/main.96311dd9.js.map",
     "787.3ce0968d.chunk.js.map": "/makharij/static/js/787.3ce0968d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a451c81b.css",
-    "static/js/main.ac127341.js"
+    "static/js/main.96311dd9.js"
   ]
 }
